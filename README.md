@@ -19,14 +19,14 @@ Support business decision-making through insights
 🔍 Drill-through pages for detailed analysis
 🎛️ Slicers and filters for dynamic exploration
 🧭 Page navigation for smooth user experience
+
 🛠️ Tools & Technologies
 
 Power BI Desktop
-
 Power Query (Data Cleaning & Transformation)
 DAX (Calculated Measures)
-
 Excel / CSV Dataset
+
 🔄 Data Processing
 
 Removed duplicates and handled missing values
@@ -40,3 +40,9 @@ Identified top-performing categories and segments
 Analyzed trends and patterns over time
 Compared performance across different dimensions
 Highlighted key metrics impacting business outcomes
+
+
+
+
+
+
