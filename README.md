@@ -6,11 +6,11 @@ This project focuses on building an interactive Power BI dashboard to analyze an
 
 🎯 Project Objectives
 
-Develop an interactive and user-friendly Power BI dashboard
-Analyze key performance indicators (KPIs)
-Enable drill-through analysis for detailed insights
-Present data in a clear and visually appealing format
-Support business decision-making through insights
+•	Develop an interactive and user-friendly Power BI dashboard
+•	Analyze key performance indicators (KPIs)
+•	Enable drill-through analysis for detailed insights
+•	Present data in a clear and visually appealing format
+•	Support business decision-making through insights
 
 📌 Key Features
 
@@ -22,24 +22,25 @@ Support business decision-making through insights
 
 🛠️ Tools & Technologies
 
-Power BI Desktop
-Power Query (Data Cleaning & Transformation)
-DAX (Calculated Measures)
-Excel / CSV Dataset
+•	Power BI Desktop
+•	Power Query (Data Cleaning & Transformation)
+•	DAX (Calculated Measures)
+•	Excel / CSV Dataset
 
 🔄 Data Processing
 
-Removed duplicates and handled missing values
-Renamed columns for clarity
-Created calculated columns and measures using DAX
-Built relationships between tables for accurate analysis
+•	Removed duplicates and handled missing values
+•	Renamed columns for clarity
+•	Created calculated columns and measures using DAX
+•	Built relationships between tables for accurate analysis
 
 📊 Dashboard Insights
 
-Identified top-performing categories and segments
-Analyzed trends and patterns over time
-Compared performance across different dimensions
-Highlighted key metrics impacting business outcomes
+•	Identified top-performing categories and segments
+•	Analyzed trends and patterns over time
+•	Compared performance across different dimensions
+•	Highlighted key metrics impacting business outcomes
+
 
 
 
